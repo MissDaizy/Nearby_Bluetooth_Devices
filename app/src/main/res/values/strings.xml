@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClosestDevicesBluetoothDetector</string>
+    <string name="your_bluetooth_device_name">Your Bluetooth Device Name:</string>
+    <string name="bluetooth_name_value">***BLUETOOTH_NAME***</string>
+    <string name="distance_value">***DISTANCE***</string>
+    <string name="distance_output">Distance:</string>
+    <string name="name_value">***NAME***</string>
+    <string name="start_scan">Start Scan</string>
+</resources>
